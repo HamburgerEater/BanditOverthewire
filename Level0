@@ -1,0 +1,4 @@
+#ssh with port 2220 with the username bandit0. 
+#Password is bandit0
+ssh -p 2220 bandit0@bandit.labs.overthewire.org
+PW: bandit0
