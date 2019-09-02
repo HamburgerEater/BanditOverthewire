@@ -1,0 +1,9 @@
+#use single/double quotation marks to group strings together
+#if no marks, will cat spaces, in, this, filename 
+cat “spaces in this filename”
+PW: UmHadQclWmgdLOKQ3YNgjWxGoRMb5luK
+
+#can also use \ to escape the space
+#easy way is to cat spa then press tab to autocomplete
+cat spaces\ in\ this\ filename
+
