@@ -1,0 +1,3 @@
+#use find to list hidden files in the working directory
+find
+cat ./inhere/.hidden
