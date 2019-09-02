@@ -1,2 +1,2 @@
 # BanditOverthewire
-overthewire challenge process
+This is my process to solving Bandit OverTheWire ctf levels
