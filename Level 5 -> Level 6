@@ -1,0 +1,5 @@
+#Find non executable files with a size of 1033 bytes
+find * ! -executable -size 1033c
+cat maybehere07/.file2
+
+PW: DXjZPULLxYr17uwoI01bNLQbtFemEgo7
